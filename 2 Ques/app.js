@@ -7,7 +7,7 @@ const app = express();
 const port = 3000;
 
 const REGISTERED_COMPANIES = {
-    '20ETIS411014': 'ncQpos', // Replace with your company's roll number and access code
+    '20ETIS411014': 'dfuwMF', // Replace with your company's roll number and access code
   };
   
 
